@@ -108,11 +108,33 @@ MySQL official documentation for database management.
 JDBC documentation for database connectivity.
 
 
+## Team Members
 
-### Note:
-  On Linux or macOS, replace the semicolon (;) with a colon (:) in the classpath like this:
-```bash    
+1. **Vansh Sharma (Leader)**
+   - Email: vansh.24scse1010324@galgotiasuniversity.ac.in  
+   - Admission No.: 24SCSE1010324
+
+2. **Malik Haris Ali (Member)**
+   - Email: malik.24scse1010863@galgotiasuniversity.ac.in  
+   - Admission No.: 24SCSE1010863
+
+3. **Dev Parashar (Member)**
+   - Email: dev.24scse1010679@galgotiasuniversity.ac.in  
+   - Admission No.: 24SCSE1010679
+
+4. **Aditya Pandey (Member)**
+   - Email: aditya.24scse1010369@galgotiasuniversity.edu.in  
+   - Admission No.: 24SCSE1010369
+
+
+> **Note:**  
+> On Linux or macOS, replace the semicolon (`;`) with a colon (`:`) in the classpath like this:
+
+```bash
 java -cp "lib/mysql-connector-j-9.3.0.jar:src" EmployeeManagementSystem
+
+
+
 
 
 
