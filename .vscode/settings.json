@@ -1,0 +1,8 @@
+{
+  "java.project.referencedLibraries": [
+    "c:\\Users\\sitan\\Downloads\\JavaSQLProject\\lib\\mysql-connector-j-9.3.0.jar"
+  ],
+  "java.project.sourcePaths": [
+    "src"
+  ]
+}
